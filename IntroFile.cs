@@ -17,7 +17,7 @@
             //event supscription, Ties Bot to DiscordApp API
             _client.Log += Log;
 
-            string botToken = "NTM0MjU0NjUxMTg1NTYxNjAx.Dx3Ltw.M6oxBs9Bmr88hBNPwmURElpmszI";
+            string botToken = "";
 
             await RegisterCommandsAsync();
 
