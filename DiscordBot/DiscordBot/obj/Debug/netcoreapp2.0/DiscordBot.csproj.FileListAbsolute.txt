@@ -1,0 +1,11 @@
+d:\documents\visual studio 2017\Projects\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.deps.json
+d:\documents\visual studio 2017\Projects\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.runtimeconfig.json
+d:\documents\visual studio 2017\Projects\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.runtimeconfig.dev.json
+d:\documents\visual studio 2017\Projects\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.dll
+d:\documents\visual studio 2017\Projects\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.csproj.CoreCompileInputs.cache
+d:\documents\visual studio 2017\Projects\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.AssemblyInfoInputs.cache
+d:\documents\visual studio 2017\Projects\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.AssemblyInfo.cs
+d:\documents\visual studio 2017\Projects\DiscordBot\DiscordBot\bin\Debug\netcoreapp2.0\DiscordBot.pdb
+d:\documents\visual studio 2017\Projects\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.dll
+d:\documents\visual studio 2017\Projects\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.pdb
+D:\Documents\Visual Studio 2017\Projects\DiscordBot\DiscordBot\obj\Debug\netcoreapp2.0\DiscordBot.csprojAssemblyReference.cache
