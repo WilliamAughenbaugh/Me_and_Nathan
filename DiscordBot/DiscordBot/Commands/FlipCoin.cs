@@ -12,6 +12,7 @@ namespace DiscordBot.Commands
     public class FlipCoin : ModuleBase<SocketCommandContext>
     {
         [Command("Flip Coin")]
+        [Alias("coinflip", "flip")]
         public async Task FlipCoinAsync()
         {
             int chance;

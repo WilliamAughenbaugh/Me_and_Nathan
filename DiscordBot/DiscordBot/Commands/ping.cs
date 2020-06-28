@@ -13,6 +13,13 @@ namespace DiscordBot.Commands
         public async Task PingAsync()
         {
             await ReplyAsync(":white_circle: Pong");
+
+        }
+
+        [Command("Bitch")]
+        public async Task BitchAsync()
+        {
+            await ReplyAsync("Queer");
         }
     }
 }

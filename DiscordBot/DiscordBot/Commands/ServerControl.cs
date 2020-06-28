@@ -21,7 +21,7 @@ namespace DiscordBot.Commands
             await gencom.CloseAsync();
         }
 
-        [Command("Nothing")]
+        [Command("Ye")]
         public async Task Nothing()
         {
             await ReplyAsync("Hey, y' Fuckin moron, enter a command...");

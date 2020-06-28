@@ -33,7 +33,7 @@ namespace DiscordBot
             //event supscription, Ties Bot to DiscordApp API
             _client.Log += Log;
 
-            string botToken = "";
+            string botToken = "NTM0MjU0NjUxMTg1NTYxNjAx.XvfxmA.6iXSCEBZpmUI4E8rbLGnrvRk638";
 
             await RegisterCommandsAsync();
 
@@ -61,13 +61,14 @@ namespace DiscordBot
 
         private async Task HandleCommandAsync(SocketMessage arg)
         {
-
+            
             var message =  arg as SocketUserMessage;
  
             if (message is null || message.Author.IsBot)
             {
-                return;
-            }
+                
+                return; 
+            }   
 
             int argPos = 0;
 

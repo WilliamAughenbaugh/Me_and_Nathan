@@ -10,6 +10,7 @@ namespace DiscordBot.Commands
     {
 
         [Command("Roll Dice")]
+        [Alias("roll", "dice", "rolldice")]
         public async Task RollDiceAsync()
         {
             int roll;
